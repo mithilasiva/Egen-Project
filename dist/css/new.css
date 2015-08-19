@@ -1,0 +1,68 @@
+#heading{
+    font-size:60px;
+    font-family: cursive;
+    margin-top:10px;
+    margin-bottom:auto;
+
+    color:whitesmoke;
+    padding:100px;
+    border:10px dotted orange;
+    background-image: url(http://www.elmwoodreclaimedtimber.com/sites/default/files/styles/hero_image/public/hero-gallery/Heart-Pine-Restaurant-Table-Top_2.jpg?itok=YUmBj3FR);
+}
+
+
+ul li{
+    display:block;
+}
+
+.topul{
+
+    position:relative;
+    color:white;
+    left:70%;
+    padding:0px;
+    font-style: normal;
+    font-size:20px;
+    width:100px;
+
+
+
+}
+
+.bottomul{
+    width:90px;
+}
+
+.topleft{
+    width:400px;
+    margin-right:100px;
+
+}
+
+
+ul li:hover{
+    color:white;
+    cursor:pointer;
+
+}
+
+#footer{
+    height: 200px;
+    background-color:dimgray;
+    position:relative;
+    top:30em;
+}
+
+.padd{
+    padding:20px;
+}
+
+
+.tophead{
+    height:50px;
+    background: lightblue;
+    padding:10px;
+    margin:auto;
+    border-bottom: 2px solid black;
+
+}
