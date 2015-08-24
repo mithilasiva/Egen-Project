@@ -2,6 +2,8 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/dist/css/new.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dist/css/onoff.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dist/css/seatmap.css" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/css/main.css" charset="UTF-8" />
   </component>
 </project>
